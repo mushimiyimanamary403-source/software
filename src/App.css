@@ -1,0 +1,31 @@
+.App{
+   font-family:Arial, Helvetica, sans-serif;
+   background-color:darkmagenta;
+   min-height:100vh;
+   color: #cd0f0f;
+}
+nav{
+  text-align:center;
+  background-color: aqua;
+  margin: auto;
+  padding: 1rem 2rem;
+}
+nav ul{
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+  padding: 0px;
+}
+input{
+  color: blue;
+}
+form{
+  background-color: magenta;
+  text-align: center;
+}
+h1{
+  background-color: coral;
+}
+p{
+  color: magenta;
+}
